@@ -4,7 +4,7 @@ layout: default
 
 # Hello, I'm Remy.
 
-[Link to another page](./cv.html).
+[Link to another page](./paginas/cv.html).
 
 There should be whitespace between paragraphs.
 
