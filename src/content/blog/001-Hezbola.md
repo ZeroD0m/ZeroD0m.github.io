@@ -1,11 +1,16 @@
 ---
-title: "Resumen de Company of One. Por qué tener un pequeño negocio puede ser mejor."
-description: "Company of One de Paul Jarvis explora la idea de dirigir un negocio como un emprendedor solitario en lugar de escalar y argumenta ..."
-pubDate: "Dec 22 2022"
-heroImage: "https://user-images.githubusercontent.com/53962116/208708365-7fa46022-c9d9-4820-8a57-3f5756c04850.png"
+title: "Los Beepers de Hezbola"
+description: "Analizaremos los acontecimientos vividos en las ultimas horas sobre la utilizacion de baterias con explosivos"
+pubDate: "Sep 18 2024"
+heroImage: "https://ZeroD0m.github.io/public/blogImages/001-Hezbola/1726632580-2565.png"
 ---
 
-Company of One de Paul Jarvis explora la idea de dirigir un negocio como un emprendedor solitario en lugar de escalar y argumenta por que permanecer pequeño y enfocado puede ser una forma más satisfactoria y rentable de dirigir un negocio. Aquí te traigo un resumen de los que a mi juicio son los puntos claves de libro.
+A propósito del ataque perpetrado por Israel a Hezbola los cuales se hacen llamar como Partido de Dios es un grupo paramilitar, musulmán chií libanes, que surgió después de la invasión de Israel, a la parte Sur del país.
+El ataque en cuestión fue realizado vulnerando los dispositivos buscapersonas, pagers o comúnmente conocidos en mi país como beepers.
+
+Estos dispositivos fueron muy usados antes (90´s) del uso masivo de los teléfonos mobiles, el funcionamiento/uso que se le daba, era que te podían enviar un mensaje de texto al dispositivo y el receptor leía el mensaje en su pequeña pantalla. Hasta ahi todo normal.
+
+Hezbola con la intención de mantener una comunicación constante con sus miembros y sabiendo que la telefonía móvil (los llamados Smartphone) pueden ser localizados y sabiendo que Israel es pionero en las herramientas más avanzadas en estos asuntos. deciden utilizar estos equipos de envío de textos para que sus militantes no sean localizados fácilmente.
 
 ## Cuestionar el crecimiento.
 
