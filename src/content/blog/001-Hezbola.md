@@ -24,25 +24,20 @@ Como los dispositivos tenía especificaciones exclusivas de resistencia, los mis
 
 Aun esta noticia está en progreso y existe muchas posibilidades que aparezcan factores nuevos.
 
-## Es muy difícil fallar siendo tan pequeño
+## Estudiemos el caso
 
-Una de las principales ventajas de ser una empresa de una persona es que se puede ser "tan pequeño como para no poder fallar". Al no tener tantos empleados o socios a quienes pagar, los riesgos financieros son mucho más bajos y es más fácil pivotar, recuperarse de un fracaso o no llegar a este punto dada la sencillez de gestionar un negocio pequeño.
+### Analicemos los factores y/o puntos que pudieron ser controlados en la compra de los dispositivos:
 
-## El poder de las marcas pequeñas
+**Muchos colegas identifican como primordial la cadena de suministro:** El factor de la cadena de suministro es esencial al momento de la fabricación, pero regularmente el comprador del producto no conoce ni investiga donde el fabricante compra las partes de sus productos. El comprador tiene muy poca incidencia en este punto a no ser que este expresamente en el contrato. Es como pedirle a Apple, Dell o Hp que facilite el listado de sus suplidores y identificar que suplidores puedan desarrollar las partes. Es un poco aplicado, pero no imposible (recordemos lo de china).
 
-Aunque pueda parecer contra intuitivo, una marca pequeña puede ser más poderosa que una grande. La personalización y la atención al detalle son clave para construir una base de clientes fieles y comprometidos, y esto es más fácil de lograr cuando se es una empresa de una sola persona. Este tipo de interacción genera una confianza en el cliente que difícilmente puede construir una marca grande.
+**Compra a un solo fabricante:** Las compras voluminosas de partes/equipos a un solo fabricante/proveedor puede levantar alertas, primero de manera interna ya que deben de realizar el aprovisionamiento de partes y en caso de necesitar, realizar la compra de las partes en el mercado.
 
-## Enfocate en ser mejor y no en ser más grande.
+**La cadena de custodia:** Sabemos hasta este momento que los dispositivos fueron fabricados en Hungria, aunque no tenemos detalles de cómo se realizó el envío ni de los puntos donde estos equipos pudieron ser interceptados, este es otro factor a tomar en cuenta, más aún cuando eres un grupo paramilitar que realiza una compra voluminosa de equipos.
 
-En lugar de enfocarse en el crecimiento constante, el libro sugiere que las empresas deben enfocarse en mejorar sus productos y servicios. En ocasiones las marcas se obsesionan con el crecimiento y basan prácticamente su rentabilidad en este modelo, lo cual comienza a demandar más recursos para la sostenibilidad de negocio y 
+**Verificación del producto final:** A este punto le llamaremos control de calidad, una pequeña prevención que debes tomar cuando estas librando una guerra.
 
-## Minimal Viable Profit
+**Otros puntos:** Dejo este espacio porque hay otros factores que pudieron inferir en esta obra, tales como la programación (firmware) del dispositivo ya que el mismo fue detonado al recibir un mensaje en específico.
 
-El concepto de "Minimal Viable Profit" (MVP) se refiere a la cantidad mínima de ganancias que necesita un negocio para ser rentable. Para una empresa de una persona, el MVP puede ser mucho más bajo que para una empresa grande, lo que le permite a los emprendedores ser más flexibles y enfocarse en lo que necesitan para ser rentable y disfrutar más de su negocio sin tener que estar centrados en todos los gastos y compromisos que genera un negocio más grande.
+## Conclusiones
 
-## Deja de querer arreglarlo todo con crecimiento.
-
-Supongamos que tienes un servicio de atención al cliente y tienes tantas peticiones que da a vasto. En este caso es muy común contratar más personal para cubrir la demanda, pero otro enfoque más efectivo puede ser buscarás el orden de porque hay tantas solicitudes y mejorar este punto para disminuirlas.
-
-
-Y hasta aquí el resumen de Company of One, un libro bastante fácil de leer y con un enfoque fresco e interesante. Si quieres ahondar más en las ideas te invito a que lo leas completo que vale cada minuto, cien por cien recomendado. 
+Estamos seguro de que todos estamos expuestos a este tipo de ataques, aunque en este caso le paso a un grupo paramilitar en guerra contra otro estado, crees tu que estas exentó?, creo que la confianza zero es la postura mas idónea en todo momento.
