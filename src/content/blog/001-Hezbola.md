@@ -12,9 +12,17 @@ Estos dispositivos fueron muy usados antes (90´s) del uso masivo de los teléfo
 
 Hezbola con la intención de mantener una comunicación constante con sus miembros y sabiendo que la telefonía móvil (los llamados Smartphone) pueden ser localizados y sabiendo que Israel es pionero en las herramientas más avanzadas en estos asuntos. deciden utilizar estos equipos de envío de textos para que sus militantes no sean localizados fácilmente.
 
-## Cuestionar el crecimiento.
+## ¿Qué paso?
 
-Paul Jarvis no niega el crecimiento, pero nos invita a cuestionar la idea de que el crecimiento constante es necesariamente la mejor estrategia para un negocio. En su lugar, propone que los emprendedores deberían considerar la opción de permanecer pequeños y enfocados, en lugar de intentar escalar y expandirse a toda costa. Esto puede ayudar a las empresas a tener éxito a largo plazo en lugar de simplemente tratar de crecer lo más rápido posible.
+Hezbola encarga el desarrollo de 3000 equipos AR-924 resistentes a las condiciones extremas, para eso contactan al fabricante BAC Consulting KFT (Hungria) que a su vez mantiene un acuerdo de cooperación de con Gold Apollo de quienes usaron su imagen y marca para distribuir los equipos.
+
+![AR-924](/blogImages/001-Hezbola/1726672834747.png)
+
+Israel al percatarse de la intención de compra de los dispositivos por parte de Hezbola introduce en estos equipos material explosivos en las baterías de litio.
+
+Como los dispositivos tenía especificaciones exclusivas de resistencia, los mismo llegan sellados herméticamente lo que imposibilitaba el descubrimiento sin afectar el dispositivo.
+
+Aun esta noticia está en progreso y existe muchas posibilidades que aparezcan factores nuevos.
 
 ## Es muy difícil fallar siendo tan pequeño
 
