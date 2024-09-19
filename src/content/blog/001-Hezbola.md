@@ -2,7 +2,7 @@
 title: "Los Beepers de Hezbola"
 description: "Analizaremos los acontecimientos vividos en las ultimas horas sobre la utilizacion de baterias con explosivos"
 pubDate: "Sep 18 2024"
-heroImage: "https://ZeroD0m.github.io/public/blogImages/001-Hezbola/1726632580-2565.png"
+heroImage: "https://github.com/ZeroD0m/ZeroD0m.github.io/blob/main/public/blogImages/001-Hezbola/1726632580-2565.png"
 ---
 
 A propósito del ataque perpetrado por Israel a Hezbola los cuales se hacen llamar como Partido de Dios es un grupo paramilitar, musulmán chií libanes, que surgió después de la invasión de Israel, a la parte Sur del país.
