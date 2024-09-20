@@ -67,14 +67,11 @@ My primary functions include risk identification, implementing security solution
 ## Certifications
 
 <div>
-<!-- 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/e851c82c-bb11-4548-abea-1fc036236c59"><img src="https://img.shields.io/badge/-CC-468145?&style=for-the-badge&logo=ISC2&color=white" />
+<a href="https://www.credly.com/earner/earned/badge/e8118428-e6df-49e0-ba65-5a05ad025332"><img src="https://img.shields.io/badge/-Endpoint%20Security-1BA0D7?style=for-the-badge&logo=CISCO&color=white" />
+<a href="https://www.credly.com/earner/earned/badge/e7f691b0-b03a-42dd-95a2-1d168a46c66d"><img src="https://img.shields.io/badge/-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=CISCO&color=white" />
 </div>
--->
+
 
 ## Projects
 - ...
